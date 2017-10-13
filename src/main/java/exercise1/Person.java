@@ -6,8 +6,8 @@ public class Person {
 
 	// constructeur
 	public Person(String name, int age) {
-		this.name = "juda";
-		this.age = 21;
+		this.name = name;
+		this.age = age;
 	}
 
 	//getters
