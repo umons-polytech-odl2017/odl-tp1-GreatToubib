@@ -6,8 +6,8 @@ public class Person {
 
 	// constructeur
 	public Person(String name, int age) {
-		this.name = name;
-		this.age = age;
+		this.name = "juda";
+		this.age = 21;
 	}
 
 	//getters
@@ -20,6 +20,7 @@ public class Person {
 	}
 
 }
+
 /*
 	// constructeur
 	public Person (){
@@ -41,4 +42,4 @@ public class Person {
 }
 
 // alt + insert
-
+*/
