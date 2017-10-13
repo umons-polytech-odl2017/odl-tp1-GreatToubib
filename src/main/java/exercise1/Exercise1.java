@@ -5,7 +5,7 @@ public class Exercise1 {
 		// Ajoutez les champs name et age à la classe Person.
 		// Créez un constructeur public permettant d'initialiser ces valeurs au moment de la construction.
 		// Créez des getters publics pour lire ces valeurs une fois la classe construite.
-		return null;
+		return null; // return une instance de la class
 	}
 
 	public static void main(String[] args) {
